@@ -1,0 +1,1004 @@
+{
+  "ARAGO": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 113488,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 113191,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "fl_ms": 112797,
+        "fl_rider": "Stefano Manzi"
+      },
+      {
+        "race": "RC2",
+        "winner": "Yari Montella",
+        "fl_ms": 112862,
+        "fl_rider": "Valentin Debise"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Valentin Debise",
+        "fl_ms": 113117,
+        "fl_rider": "Philipp Oettl"
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "fl_ms": 112906,
+        "fl_rider": "Valentin Debise"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 113488,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 113191,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 112797,
+        "fl_rider": "Stefano Manzi"
+      },
+      {
+        "race": "RC2",
+        "winner": "Yari Montella",
+        "team": "Barni Spark Racing Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 112862,
+        "fl_rider": "Valentin Debise"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Valentin Debise",
+        "team": "Renzi Corse",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 113117,
+        "fl_rider": "Philipp Oettl"
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "team": "Yamaha BLU CRU Evan Bros Team",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 112906,
+        "fl_rider": "Valentin Debise"
+      }
+    ]
+  },
+  "PHILL": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Can Oncu",
+        "fl_ms": null,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 93853,
+        "fl_rider": "Stefano Manzi"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Yari Montella",
+        "fl_ms": 91271,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Yari Montella",
+        "fl_ms": 91530,
+        "fl_rider": "Marcel Schroetter"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 92643,
+        "fl_rider": "Bo Bendsneyder"
+      },
+      {
+        "race": "RC2",
+        "winner": "Tom Booth-Amos",
+        "fl_ms": 92300,
+        "fl_rider": "Bo Bendsneyder"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Can Oncu",
+        "team": "Kawasaki Puccetti Racing",
+        "motorcycle": "",
+        "fl_ms": null,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 93853,
+        "fl_rider": "Stefano Manzi"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Yari Montella",
+        "team": "Barni Spark Racing Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 91271,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Yari Montella",
+        "team": "Barni Spark Racing Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 91530,
+        "fl_rider": "Marcel Schroetter"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 92643,
+        "fl_rider": "Bo Bendsneyder"
+      },
+      {
+        "race": "RC2",
+        "winner": "Tom Booth-Amos",
+        "team": "PTR Triumph Factory Racing",
+        "motorcycle": "",
+        "fl_ms": 92300,
+        "fl_rider": "Bo Bendsneyder"
+      }
+    ]
+  },
+  "MOST": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 95301,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Tarran Mackenzie",
+        "fl_ms": 95027,
+        "fl_rider": "Nicolo Bulega"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "fl_ms": 94834,
+        "fl_rider": "Stefano Manzi"
+      },
+      {
+        "race": "RC2",
+        "winner": "Adrian Huertas",
+        "fl_ms": 95083,
+        "fl_rider": "Stefano Manzi"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Jaume Masia",
+        "fl_ms": 94403,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "fl_ms": 94338,
+        "fl_rider": "Jaume Masia"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 95301,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Tarran Mackenzie",
+        "team": "PETRONAS MIE Racing Honda Team",
+        "motorcycle": "Honda CBR600RR",
+        "fl_ms": 95027,
+        "fl_rider": "Nicolo Bulega"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 94834,
+        "fl_rider": "Stefano Manzi"
+      },
+      {
+        "race": "RC2",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 95083,
+        "fl_rider": "Stefano Manzi"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Jaume Masia",
+        "team": "Orelac Racing Verdnatura",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 94403,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "team": "Yamaha BLU CRU Evan Bros Team",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 94338,
+        "fl_rider": "Jaume Masia"
+      }
+    ]
+  },
+  "MAGNY": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 100928,
+        "fl_rider": "Valentin Debise"
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 100520,
+        "fl_rider": "Valentin Debise"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Niki Tuuli",
+        "fl_ms": 103122,
+        "fl_rider": "Can Oncu"
+      },
+      {
+        "race": "RC2",
+        "winner": "Yari Montella",
+        "fl_ms": 100027,
+        "fl_rider": "Stefano Manzi"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 100400,
+        "fl_rider": "Can Oncu"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 100319,
+        "fl_rider": "Can Oncu"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 100928,
+        "fl_rider": "Valentin Debise"
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 100520,
+        "fl_rider": "Valentin Debise"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Niki Tuuli",
+        "team": "EAB Racing Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 103122,
+        "fl_rider": "Can Oncu"
+      },
+      {
+        "race": "RC2",
+        "winner": "Yari Montella",
+        "team": "Barni Spark Racing Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 100027,
+        "fl_rider": "Stefano Manzi"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 100400,
+        "fl_rider": "Can Oncu"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 100319,
+        "fl_rider": "Can Oncu"
+      }
+    ]
+  },
+  "DONIN": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 89511,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 89018,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "fl_ms": 88861,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Adrian Huertas",
+        "fl_ms": null,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 89511,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "fl_ms": 89462,
+        "fl_rider": "Jaume Masia"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 89511,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 89018,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 88861,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": null,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 89511,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "team": "Yamaha BLU CRU Evan Bros Team",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 89462,
+        "fl_rider": "Jaume Masia"
+      }
+    ]
+  },
+  "MISAN": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 97933,
+        "fl_rider": "Federico Caricasulo"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 97470,
+        "fl_rider": "Federico Caricasulo"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "fl_ms": 97404,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Adrian Huertas",
+        "fl_ms": 97114,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 97536,
+        "fl_rider": "Filippo Farioli"
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "fl_ms": 97741,
+        "fl_rider": "Tom Booth-Amos"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 97933,
+        "fl_rider": "Federico Caricasulo"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Ten Kate Racing Yamaha",
+        "motorcycle": "",
+        "fl_ms": 97470,
+        "fl_rider": "Federico Caricasulo"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 97404,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 97114,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 97536,
+        "fl_rider": "Filippo Farioli"
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "team": "Yamaha BLU CRU Evan Bros Team",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 97741,
+        "fl_rider": "Tom Booth-Amos"
+      }
+    ]
+  },
+  "JEREZ": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 101875,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "fl_ms": null,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 102568,
+        "fl_rider": "Federico Caricasulo"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 102985,
+        "fl_rider": "Adrian Huertas"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 102702,
+        "fl_rider": "Can Oncu"
+      },
+      {
+        "race": "RC2",
+        "winner": "Jaume Masia",
+        "fl_ms": 102654,
+        "fl_rider": "Can Oncu"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 101875,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": null,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "",
+        "fl_ms": 102568,
+        "fl_rider": "Federico Caricasulo"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "",
+        "fl_ms": 102985,
+        "fl_rider": "Adrian Huertas"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 102702,
+        "fl_rider": "Can Oncu"
+      },
+      {
+        "race": "RC2",
+        "winner": "Jaume Masia",
+        "team": "Orelac Racing Verdnatura",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 102654,
+        "fl_rider": "Can Oncu"
+      }
+    ]
+  },
+  "ASSEN": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 97831,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 97607,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "fl_ms": 100176,
+        "fl_rider": "Federico Caricasulo"
+      },
+      {
+        "race": "RC2",
+        "winner": "Glenn van Straalen",
+        "fl_ms": 105814,
+        "fl_rider": "Bahattin Sofuoglu"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Bo Bendsneyder",
+        "fl_ms": 96952,
+        "fl_rider": "Stefano Manzi"
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "fl_ms": 97764,
+        "fl_rider": "Marcel Schroetter"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 97831,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 97607,
+        "fl_rider": ""
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 100176,
+        "fl_rider": "Federico Caricasulo"
+      },
+      {
+        "race": "RC2",
+        "winner": "Glenn van Straalen",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "",
+        "fl_ms": 105814,
+        "fl_rider": "Bahattin Sofuoglu"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Bo Bendsneyder",
+        "team": "MV Agusta Reparto Corse",
+        "motorcycle": "MV Agusta F3 800 RR",
+        "fl_ms": 96952,
+        "fl_rider": "Stefano Manzi"
+      },
+      {
+        "race": "RC2",
+        "winner": "Can Oncu",
+        "team": "Yamaha BLU CRU Evan Bros Team",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 97764,
+        "fl_rider": "Marcel Schroetter"
+      }
+    ]
+  },
+  "PORTI": {
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "fl_ms": 103686,
+        "fl_rider": "Yari Montella"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Can Oncu",
+        "fl_ms": 103251,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Bo Bendsneyder",
+        "fl_ms": 102909,
+        "fl_rider": "Can Oncu"
+      }
+    ],
+    "2023": [
+      {
+        "race": "RC1",
+        "winner": "Nicolo Bulega",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 103686,
+        "fl_rider": "Yari Montella"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Can Oncu",
+        "team": "Yamaha BLU CRU Evan Bros Team",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 103251,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Bo Bendsneyder",
+        "team": "MV Agusta Reparto Corse",
+        "motorcycle": "MV Agusta F3 800 RR",
+        "fl_ms": 102909,
+        "fl_rider": "Can Oncu"
+      }
+    ]
+  },
+  "CREMO": {
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "fl_ms": 92213,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 92117,
+        "fl_rider": "Yari Montella"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 92217,
+        "fl_rider": "Tom Booth-Amos"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 92001,
+        "fl_rider": "Lucas Mahias"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Adrian Huertas",
+        "team": "Aruba.it Racing WorldSSP Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 92213,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "",
+        "fl_ms": 92117,
+        "fl_rider": "Yari Montella"
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 92217,
+        "fl_rider": "Tom Booth-Amos"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 92001,
+        "fl_rider": "Lucas Mahias"
+      }
+    ]
+  },
+  "ESTOR": {
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Yari Montella",
+        "fl_ms": 100266,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 100063,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Valentin Debise",
+        "fl_ms": 99847,
+        "fl_rider": "Roberto Garcia"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 99868,
+        "fl_rider": "Jeremy Alcoba"
+      }
+    ],
+    "2024": [
+      {
+        "race": "RC1",
+        "winner": "Yari Montella",
+        "team": "Barni Spark Racing Team",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 100266,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "",
+        "fl_ms": 100063,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Valentin Debise",
+        "team": "Renzi Corse",
+        "motorcycle": "Ducati Panigale V2",
+        "fl_ms": 99847,
+        "fl_rider": "Roberto Garcia"
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 99868,
+        "fl_rider": "Jeremy Alcoba"
+      }
+    ]
+  },
+  "BALAT": {
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "fl_ms": 103358,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "fl_ms": 103296,
+        "fl_rider": ""
+      }
+    ],
+    "2025": [
+      {
+        "race": "RC1",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 103358,
+        "fl_rider": ""
+      },
+      {
+        "race": "RC2",
+        "winner": "Stefano Manzi",
+        "team": "Pata Yamaha Ten Kate Racing",
+        "motorcycle": "Yamaha YZF-R9",
+        "fl_ms": 103296,
+        "fl_rider": ""
+      }
+    ]
+  }
+}

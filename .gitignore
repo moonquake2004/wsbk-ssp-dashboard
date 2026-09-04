@@ -1,0 +1,14 @@
+# 运行日志与输出
+auto_update.log
+launchd_stdout.log
+launchd_stderr.log
+
+# macOS
+.DS_Store
+
+# API 原始缓存
+raw/
+
+# Python 缓存
+__pycache__/
+*.pyc
