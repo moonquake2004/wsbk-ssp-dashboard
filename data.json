@@ -2,7 +2,7 @@
   "season": 2026,
   "category": "SSP",
   "category_name": "WorldSSP",
-  "generated_at": "2026-09-05T13:17:17.190918Z",
+  "generated_at": "2026-09-05T13:28:12.308963Z",
   "rounds": {
     "ARA": {
       "id": "ARA",
@@ -661,6 +661,36 @@
       "number": 81,
       "team": "Scars-Racing",
       "motorcycle": "Ducati Panigale V2"
+    },
+    "3988": {
+      "id": "3988",
+      "name": "Jorge",
+      "surname": "Navarro",
+      "full_name": "Jorge Navarro",
+      "country": "ESP",
+      "number": 9,
+      "team": "PTR Triumph Factory Racing",
+      "motorcycle": "Triumph Street Triple 765 RS"
+    },
+    "1556": {
+      "id": "1556",
+      "name": "Mathieu",
+      "surname": "Gines",
+      "full_name": "Mathieu Gines",
+      "country": "FRA",
+      "number": 56,
+      "team": "GMT94 Yamaha",
+      "motorcycle": "Yamaha YZF-R9"
+    },
+    "8546": {
+      "id": "8546",
+      "name": "Samuel",
+      "surname": "Di Sora",
+      "full_name": "Samuel Di Sora",
+      "country": "FRA",
+      "number": 23,
+      "team": "Flembbo by Racing Development",
+      "motorcycle": "MV Agusta F3 800 RR"
     }
   },
   "teams": [
@@ -8687,7 +8717,503 @@
       "race": "RC1",
       "session_id": "001",
       "date": "2026-09-05",
-      "results": []
+      "results": [
+        {
+          "pos": 1,
+          "rider_id": "8482",
+          "number": 61,
+          "team": "Pata Yamaha Ten Kate Racing",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1913046,
+          "status": "Classified",
+          "top_speed": 269.3,
+          "fastest_lap_ms": 100237,
+          "fastest_lap_pos": 6,
+          "fastest_lap_no": 19,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 2,
+          "rider_id": "9076",
+          "number": 37,
+          "team": "GMT94 Yamaha",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1913153,
+          "status": "Classified",
+          "top_speed": 263.4,
+          "fastest_lap_ms": 100307,
+          "fastest_lap_pos": 8,
+          "fastest_lap_no": 6,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 3,
+          "rider_id": "2058",
+          "number": 53,
+          "team": "EASTROC ZXMOTO Evan Bros Factory",
+          "motorbike_model_id": "0f641396-e545-5bac-9e2a-7118220c4ac0",
+          "laps": 19,
+          "time_ms": 1913438,
+          "status": "Classified",
+          "top_speed": 265.4,
+          "fastest_lap_ms": 100214,
+          "fastest_lap_pos": 4,
+          "fastest_lap_no": 8,
+          "motorcycle": "ZXMOTO 820RR-RS"
+        },
+        {
+          "pos": 4,
+          "rider_id": "4432",
+          "number": 94,
+          "team": "GMT94 Yamaha",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1915956,
+          "status": "Classified",
+          "top_speed": 266,
+          "fastest_lap_ms": 100360,
+          "fastest_lap_pos": 11,
+          "fastest_lap_no": 13,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 5,
+          "rider_id": "4482",
+          "number": 64,
+          "team": "EASTROC ZXMOTO Evan Bros Factory",
+          "motorbike_model_id": "0f641396-e545-5bac-9e2a-7118220c4ac0",
+          "laps": 19,
+          "time_ms": 1917565,
+          "status": "Classified",
+          "top_speed": 268.7,
+          "fastest_lap_ms": 100404,
+          "fastest_lap_pos": 13,
+          "fastest_lap_no": 12,
+          "motorcycle": "ZXMOTO 820RR-RS"
+        },
+        {
+          "pos": 6,
+          "rider_id": "8837",
+          "number": 70,
+          "team": "Orelac Racing Verdnatura",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1918819,
+          "status": "Classified",
+          "top_speed": 268.7,
+          "fastest_lap_ms": 100440,
+          "fastest_lap_pos": 14,
+          "fastest_lap_no": 8,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 7,
+          "rider_id": "3988",
+          "number": 9,
+          "team": "PTR Triumph Factory Racing",
+          "motorbike_model_id": "14f9610e-934e-5360-805c-5100fe218f27",
+          "laps": 19,
+          "time_ms": 1919659,
+          "status": "Classified",
+          "top_speed": 270.7,
+          "fastest_lap_ms": 100158,
+          "fastest_lap_pos": 3,
+          "fastest_lap_no": 15,
+          "motorcycle": "Triumph Street Triple 765 RS"
+        },
+        {
+          "pos": 8,
+          "rider_id": "8916",
+          "number": 57,
+          "team": "AS BLU CRU Racing Team",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1920179,
+          "status": "Classified",
+          "top_speed": 267.3,
+          "fastest_lap_ms": 100078,
+          "fastest_lap_pos": 2,
+          "fastest_lap_no": 8,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 9,
+          "rider_id": "8522",
+          "number": 7,
+          "team": "VFT Racing Yamaha",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1921369,
+          "status": "Classified",
+          "top_speed": 266.7,
+          "fastest_lap_ms": 100233,
+          "fastest_lap_pos": 5,
+          "fastest_lap_no": 8,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 10,
+          "rider_id": "8150",
+          "number": 5,
+          "team": "Orelac Racing Verdnatura",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1923837,
+          "status": "Classified",
+          "top_speed": 270.7,
+          "fastest_lap_ms": 100482,
+          "fastest_lap_pos": 15,
+          "fastest_lap_no": 13,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 11,
+          "rider_id": "2182",
+          "number": 11,
+          "team": "WRP Racing",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1924128,
+          "status": "Classified",
+          "top_speed": 269.3,
+          "fastest_lap_ms": 100602,
+          "fastest_lap_pos": 17,
+          "fastest_lap_no": 6,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 12,
+          "rider_id": "9244",
+          "number": 91,
+          "team": "WRP Racing",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1925303,
+          "status": "Classified",
+          "top_speed": 270,
+          "fastest_lap_ms": 100532,
+          "fastest_lap_pos": 16,
+          "fastest_lap_no": 4,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 13,
+          "rider_id": "8430",
+          "number": 31,
+          "team": "Pata Yamaha Ten Kate Racing",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1929898,
+          "status": "Classified",
+          "top_speed": 266.7,
+          "fastest_lap_ms": 100794,
+          "fastest_lap_pos": 20,
+          "fastest_lap_no": 4,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 14,
+          "rider_id": "8792",
+          "number": 43,
+          "team": "EAB Racing Team",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1930128,
+          "status": "Classified",
+          "top_speed": 265.4,
+          "fastest_lap_ms": 100746,
+          "fastest_lap_pos": 19,
+          "fastest_lap_no": 9,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 15,
+          "rider_id": "8433",
+          "number": 52,
+          "team": "Kawasaki WorldSSP Team",
+          "motorbike_model_id": "d74cc533-af9f-527a-93ed-0d450ba94e55",
+          "laps": 19,
+          "time_ms": 1930705,
+          "status": "Classified",
+          "top_speed": 267.3,
+          "fastest_lap_ms": 100380,
+          "fastest_lap_pos": 12,
+          "fastest_lap_no": 13,
+          "motorcycle": "Kawasaki Ninja ZX-6R"
+        },
+        {
+          "pos": 16,
+          "rider_id": "8776",
+          "number": 50,
+          "team": "Compos Racing Team",
+          "motorbike_model_id": "14f9610e-934e-5360-805c-5100fe218f27",
+          "laps": 19,
+          "time_ms": 1931016,
+          "status": "Classified",
+          "top_speed": 265.4,
+          "fastest_lap_ms": 100813,
+          "fastest_lap_pos": 21,
+          "fastest_lap_no": 9,
+          "motorcycle": "Triumph Street Triple 765 RS"
+        },
+        {
+          "pos": 17,
+          "rider_id": "3870",
+          "number": 77,
+          "team": "Kawasaki WorldSSP Team",
+          "motorbike_model_id": "d74cc533-af9f-527a-93ed-0d450ba94e55",
+          "laps": 19,
+          "time_ms": 1932186,
+          "status": "Classified",
+          "top_speed": 268,
+          "fastest_lap_ms": 101211,
+          "fastest_lap_pos": 27,
+          "fastest_lap_no": 4,
+          "motorcycle": "Kawasaki Ninja ZX-6R"
+        },
+        {
+          "pos": 18,
+          "rider_id": "8494",
+          "number": 25,
+          "team": "Compos Racing Team",
+          "motorbike_model_id": "14f9610e-934e-5360-805c-5100fe218f27",
+          "laps": 19,
+          "time_ms": 1936380,
+          "status": "Classified",
+          "top_speed": 267.3,
+          "fastest_lap_ms": 101178,
+          "fastest_lap_pos": 25,
+          "fastest_lap_no": 4,
+          "motorcycle": "Triumph Street Triple 765 RS"
+        },
+        {
+          "pos": 19,
+          "rider_id": "4195",
+          "number": 16,
+          "team": "Ecosantagata Althea Racing Team",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1937187,
+          "status": "Classified",
+          "top_speed": 270.7,
+          "fastest_lap_ms": 101065,
+          "fastest_lap_pos": 24,
+          "fastest_lap_no": 12,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 20,
+          "rider_id": "6182",
+          "number": 10,
+          "team": "Ecosantagata Althea Racing Team",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 19,
+          "time_ms": 1941605,
+          "status": "Classified",
+          "top_speed": 270,
+          "fastest_lap_ms": 101200,
+          "fastest_lap_pos": 26,
+          "fastest_lap_no": 8,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 21,
+          "rider_id": "4503",
+          "number": 24,
+          "team": "QJMOTOR Factory Racing",
+          "motorbike_model_id": "8b8425b7-2406-500e-9c62-7094b2d1876f",
+          "laps": 19,
+          "time_ms": 1950690,
+          "status": "Classified",
+          "top_speed": 266.7,
+          "fastest_lap_ms": 100887,
+          "fastest_lap_pos": 23,
+          "fastest_lap_no": 10,
+          "motorcycle": "QJ Motor SRK800RS"
+        },
+        {
+          "pos": 22,
+          "rider_id": "1556",
+          "number": 56,
+          "team": "GMT94 Yamaha",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1953657,
+          "status": "Classified",
+          "top_speed": 266.7,
+          "fastest_lap_ms": 101665,
+          "fastest_lap_pos": 29,
+          "fastest_lap_no": 5,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 23,
+          "rider_id": "8509",
+          "number": 88,
+          "team": "Motozoo by Madforce Dubai",
+          "motorbike_model_id": "879e3e99-b3d7-5f3c-8979-e231b6127443",
+          "laps": 19,
+          "time_ms": 1957563,
+          "status": "Classified",
+          "top_speed": 265.4,
+          "fastest_lap_ms": 102042,
+          "fastest_lap_pos": 30,
+          "fastest_lap_no": 10,
+          "motorcycle": "MV Agusta F3 800 RR"
+        },
+        {
+          "pos": 24,
+          "rider_id": "8980",
+          "number": 19,
+          "team": "Motorsport Kofler",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 19,
+          "time_ms": 1957936,
+          "status": "Classified",
+          "top_speed": 260.9,
+          "fastest_lap_ms": 101462,
+          "fastest_lap_pos": 28,
+          "fastest_lap_no": 5,
+          "motorcycle": "Yamaha YZF-R9"
+        },
+        {
+          "pos": 25,
+          "rider_id": "8148",
+          "number": 69,
+          "team": "PTR Triumph Factory Racing",
+          "motorbike_model_id": "14f9610e-934e-5360-805c-5100fe218f27",
+          "laps": 19,
+          "time_ms": 1962626,
+          "status": "Classified",
+          "top_speed": 271.4,
+          "fastest_lap_ms": 99868,
+          "fastest_lap_pos": 1,
+          "fastest_lap_no": 8,
+          "motorcycle": "Triumph Street Triple 765 RS"
+        },
+        {
+          "pos": 26,
+          "rider_id": "3979",
+          "number": 22,
+          "team": "Honda Racing World Supersport",
+          "motorbike_model_id": "50767e52-483b-5d6f-b326-68eca702f8e3",
+          "laps": 19,
+          "time_ms": 1962713,
+          "status": "Classified",
+          "top_speed": 263.4,
+          "fastest_lap_ms": 102404,
+          "fastest_lap_pos": 31,
+          "fastest_lap_no": 10,
+          "motorcycle": "Honda CBR600RR"
+        },
+        {
+          "pos": 27,
+          "rider_id": "8546",
+          "number": 23,
+          "team": "Flembbo by Racing Development",
+          "motorbike_model_id": "879e3e99-b3d7-5f3c-8979-e231b6127443",
+          "laps": 19,
+          "time_ms": 1976955,
+          "status": "Classified",
+          "top_speed": 253.5,
+          "fastest_lap_ms": 102947,
+          "fastest_lap_pos": 32,
+          "fastest_lap_no": 8,
+          "motorcycle": "MV Agusta F3 800 RR"
+        },
+        {
+          "pos": 28,
+          "rider_id": "3976",
+          "number": 65,
+          "team": "Feel Racing WorldSSP Team",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 18,
+          "time_ms": 1925690,
+          "status": "Classified",
+          "top_speed": 267.3,
+          "fastest_lap_ms": 100316,
+          "fastest_lap_pos": 10,
+          "fastest_lap_no": 14,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 29,
+          "rider_id": "8424",
+          "number": 6,
+          "team": "Honda Racing World Supersport",
+          "motorbike_model_id": "50767e52-483b-5d6f-b326-68eca702f8e3",
+          "laps": 18,
+          "time_ms": 1966007,
+          "status": "Classified",
+          "top_speed": 264.1,
+          "fastest_lap_ms": 100311,
+          "fastest_lap_pos": 9,
+          "fastest_lap_no": 12,
+          "motorcycle": "Honda CBR600RR"
+        },
+        {
+          "pos": 30,
+          "rider_id": "6118",
+          "number": 40,
+          "team": "D34G WorldSSP Racing Team",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 17,
+          "time_ms": 1919889,
+          "status": "Classified",
+          "top_speed": 270.7,
+          "fastest_lap_ms": 100273,
+          "fastest_lap_pos": 7,
+          "fastest_lap_no": 14,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 31,
+          "rider_id": "2036",
+          "number": 3,
+          "team": "QJMOTOR Factory Racing",
+          "motorbike_model_id": "8b8425b7-2406-500e-9c62-7094b2d1876f",
+          "laps": 14,
+          "time_ms": 1451470,
+          "status": "Retired",
+          "top_speed": 264.1,
+          "fastest_lap_ms": 100858,
+          "fastest_lap_pos": 22,
+          "fastest_lap_no": 6,
+          "motorcycle": "QJ Motor SRK800RS"
+        },
+        {
+          "pos": 32,
+          "rider_id": "8053",
+          "number": 44,
+          "team": "Renzi Corse",
+          "motorbike_model_id": "53d84d89-4caa-5e0b-8510-c3b3d8b45823",
+          "laps": 3,
+          "time_ms": 347048,
+          "status": "Retired",
+          "top_speed": 263.4,
+          "fastest_lap_ms": 103124,
+          "fastest_lap_pos": 33,
+          "fastest_lap_no": 2,
+          "motorcycle": "Ducati Panigale V2"
+        },
+        {
+          "pos": 33,
+          "rider_id": "2173",
+          "number": 75,
+          "team": "AS BLU CRU Racing Team",
+          "motorbike_model_id": "320a38a2-468a-57d0-9129-a418e670ff5d",
+          "laps": 2,
+          "time_ms": 202992,
+          "status": "Retired",
+          "top_speed": 268.7,
+          "fastest_lap_ms": 100647,
+          "fastest_lap_pos": 18,
+          "fastest_lap_no": 2,
+          "motorcycle": "Yamaha YZF-R9"
+        }
+      ]
     },
     {
       "round": "FRA",
@@ -8713,23 +9239,23 @@
       "full_name": "Valentin Debise",
       "country": "FRA",
       "number": 53,
-      "points": 209
+      "points": 225
     },
     {
       "pos": 3,
-      "rider_id": "8150",
-      "full_name": "Jaume Masia",
-      "country": "ESP",
-      "number": 5,
-      "points": 195
-    },
-    {
-      "pos": 4,
       "rider_id": "8482",
       "full_name": "Can Oncu",
       "country": "TUR",
       "number": 61,
-      "points": 178
+      "points": 203
+    },
+    {
+      "pos": 4,
+      "rider_id": "8150",
+      "full_name": "Jaume Masia",
+      "country": "ESP",
+      "number": 5,
+      "points": 201
     },
     {
       "pos": 5,
@@ -8749,27 +9275,27 @@
     },
     {
       "pos": 7,
-      "rider_id": "8433",
-      "full_name": "Jeremy Alcoba",
-      "country": "ESP",
-      "number": 52,
-      "points": 126
-    },
-    {
-      "pos": 8,
       "rider_id": "9076",
       "full_name": "Roberto Garcia",
       "country": "ESP",
       "number": 37,
-      "points": 119
+      "points": 139
+    },
+    {
+      "pos": 8,
+      "rider_id": "8433",
+      "full_name": "Jeremy Alcoba",
+      "country": "ESP",
+      "number": 52,
+      "points": 127
     },
     {
       "pos": 9,
-      "rider_id": "4195",
-      "full_name": "Alessandro Zaccone",
-      "country": "ITA",
-      "number": 16,
-      "points": 118
+      "rider_id": "8916",
+      "full_name": "Aldi Mahendra",
+      "country": "INA",
+      "number": 57,
+      "points": 119
     },
     {
       "pos": 10,
@@ -8777,15 +9303,15 @@
       "full_name": "Matteo Ferrari",
       "country": "ITA",
       "number": 11,
-      "points": 114
+      "points": 119
     },
     {
       "pos": 11,
-      "rider_id": "8916",
-      "full_name": "Aldi Mahendra",
-      "country": "INA",
-      "number": 57,
-      "points": 111
+      "rider_id": "4195",
+      "full_name": "Alessandro Zaccone",
+      "country": "ITA",
+      "number": 16,
+      "points": 118
     },
     {
       "pos": 12,
@@ -8793,7 +9319,7 @@
       "full_name": "Lucas Mahias",
       "country": "FRA",
       "number": 94,
-      "points": 89
+      "points": 102
     },
     {
       "pos": 13,
@@ -8809,10 +9335,18 @@
       "full_name": "Simon Jespersen",
       "country": "DEN",
       "number": 43,
-      "points": 66
+      "points": 68
     },
     {
       "pos": 15,
+      "rider_id": "8522",
+      "full_name": "Filippo Farioli",
+      "country": "ITA",
+      "number": 7,
+      "points": 55
+    },
+    {
+      "pos": 16,
       "rider_id": "6118",
       "full_name": "Mattia Casadei",
       "country": "ITA",
@@ -8820,15 +9354,15 @@
       "points": 49
     },
     {
-      "pos": 16,
-      "rider_id": "8522",
-      "full_name": "Filippo Farioli",
+      "pos": 17,
+      "rider_id": "4482",
+      "full_name": "Federico Caricasulo",
       "country": "ITA",
-      "number": 7,
-      "points": 48
+      "number": 64,
+      "points": 38
     },
     {
-      "pos": 17,
+      "pos": 18,
       "rider_id": "3870",
       "full_name": "Dominique Aegerter",
       "country": "SUI",
@@ -8836,20 +9370,12 @@
       "points": 37
     },
     {
-      "pos": 18,
-      "rider_id": "4482",
-      "full_name": "Federico Caricasulo",
-      "country": "ITA",
-      "number": 64,
-      "points": 27
-    },
-    {
       "pos": 19,
       "rider_id": "8837",
       "full_name": "Josh Whatley",
       "country": "GBR",
       "number": 70,
-      "points": 26
+      "points": 36
     },
     {
       "pos": 20,
@@ -8877,14 +9403,30 @@
     },
     {
       "pos": 23,
+      "rider_id": "3988",
+      "full_name": "Jorge Navarro",
+      "country": "ESP",
+      "number": 9,
+      "points": 9
+    },
+    {
+      "pos": 24,
       "rider_id": "8430",
       "full_name": "Yuki Okamoto",
       "country": "JPN",
       "number": 31,
-      "points": 3
+      "points": 6
     },
     {
-      "pos": 24,
+      "pos": 25,
+      "rider_id": "9244",
+      "full_name": "Borja Jimenez",
+      "country": "ESP",
+      "number": 91,
+      "points": 4
+    },
+    {
+      "pos": 26,
       "rider_id": "7827",
       "full_name": "Xavi Cardelus",
       "country": "AND",
@@ -8892,7 +9434,7 @@
       "points": 2
     },
     {
-      "pos": 25,
+      "pos": 27,
       "rider_id": "6149",
       "full_name": "Kevin Zannoni",
       "country": "ITA",
@@ -8905,35 +9447,35 @@
       "pos": 1,
       "manufacturer_id": "YAMAH",
       "name": "Yamaha",
-      "points": 320,
+      "points": 345,
       "last_round": "2026-JER"
     },
     {
       "pos": 2,
       "manufacturer_id": "DUCAT",
       "name": "Ducati",
-      "points": 279,
+      "points": 289,
       "last_round": "2026-JER"
     },
     {
       "pos": 3,
       "manufacturer_id": "ZXMOT",
       "name": "ZXMOTO",
-      "points": 211,
+      "points": 227,
       "last_round": "2026-JER"
     },
     {
       "pos": 4,
       "manufacturer_id": "TRIUM",
       "name": "Triumph",
-      "points": 210,
+      "points": 219,
       "last_round": "2026-JER"
     },
     {
       "pos": 5,
       "manufacturer_id": "KAWAS",
       "name": "Kawasaki",
-      "points": 130,
+      "points": 131,
       "last_round": "2026-JER"
     },
     {
