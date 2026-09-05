@@ -10,7 +10,8 @@ DIR="$(cd "$(dirname "$0")" && pwd)"
 RAW="$DIR/raw"
 mkdir -p "$RAW"
 
-get() { curl -sS -A "$UA" -H "x-client: FE" -H "Referer: https://www.worldsbk.com/" -m 20 "$API$1"; }
+# --retry 4: 网络抖动/超时自动重试，避免单次超时导致整个抓取中止
+get() { curl -sS --retry 4 --retry-delay 2 --retry-all-errors -A "$UA" -H "x-client: FE" -H "Referer: https://www.worldsbk.com/" -m 20 "$API$1"; }
 
 echo "=== 1) 拉取分站列表 ==="
 get "/wsbk-events/v1/seasons/2026/rounds" > "$RAW/rounds.json"
