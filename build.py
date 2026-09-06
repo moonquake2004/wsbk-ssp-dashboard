@@ -162,6 +162,32 @@ front_manufacturers = [{
     "points": m.get("points",0),
 } for m in STANDINGS_MFR]
 
+# 修正轮次状态: 官方 API 的 round.status 有时滞后(比赛都完了还标 CURRENT)。
+# 若某分站的 Race 2 已有完赛成绩, 则无论 API 状态如何, 都视为已完赛。
+def _effective_status(round_id, api_status):
+    if api_status == "FINISHED":
+        return "FINISHED"
+    if api_status == "NOT-STARTED":
+        return "NOT-STARTED"
+    # CURRENT / LIVE / 其他: 看该站实质比赛是否都跑完了
+    rcs = [r for r in RACES if r.get("round") == round_id]
+    if not rcs:
+        return api_status
+    # 只要有 Race 2 且至少有 1 条完赛成绩, 即认定整站结束
+    rc2 = next((r for r in rcs if r.get("race") == "RC2"), None)
+    finished_any = any(
+        (res.get("status") in ("Classified",)) or res.get("pos")
+        for r in rcs for res in r.get("results", [])
+    )
+    if rc2 and finished_any:
+        return "FINISHED"
+    return api_status
+
+_effective_rounds = {
+    k: {**v, "status": _effective_status(k, v.get("status", ""))}
+    for k, v in ROUNDS.items()
+}
+
 front_data = {
     "season": SEASON, "generated": DATA.get("generated_at",""),
     "round_order": ROUND_ORDER,
@@ -169,7 +195,7 @@ front_data = {
                     "date": v["start_date"], "end_date": v["end_date"],
                     "status": v["status"], "circuit_id": v.get("circuit_id",""),
                     "sequence_order": v.get("sequence_order",0)}
-               for k,v in ROUNDS.items()},
+               for k,v in _effective_rounds.items()},
     "riders": front_riders, "races": front_races,
     "manufacturers": front_manufacturers,
     "circuits": {cid: {"name": c.get("name",""), "locality": c.get("locality",""),
