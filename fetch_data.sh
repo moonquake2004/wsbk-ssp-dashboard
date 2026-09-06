@@ -134,8 +134,12 @@ for rd in round_order:
             continue
         sa = s["attributes"]
         short = sa.get("short_name", "")
+        # 按 short_name 归类，但只接受主赛 source_id (001=RC1, 002=RC2)
+        # 避免替补/重赛 session(如 102) 覆盖主赛 session id
         if short in ("RC1", "RC2"):
-            ssp_races[short] = sa["source_id"]
+            sid = sa.get("source_id", "")
+            if sid in ("001", "002"):
+                ssp_races[short] = sid
 
     for race_key in ("RC1", "RC2"):
         sid = ssp_races.get(race_key)
