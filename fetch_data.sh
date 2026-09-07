@@ -134,12 +134,17 @@ for rd in round_order:
             continue
         sa = s["attributes"]
         short = sa.get("short_name", "")
-        # 按 short_name 归类，但只接受主赛 source_id (001=RC1, 002=RC2)
-        # 避免替补/重赛 session(如 102) 覆盖主赛 session id
+        # 按 short_name 归类为 RC1/RC2。
+        # 若某站 RC2 有红旗, 官方会给出多个 RC2 session:
+        #   002 = "Race 2 - Red Flag" (红旗场, 不计入最终成绩)
+        #   102 = "Race 2"           (正式的最终成绩)
+        # 因此这里**排除 description 含 "Red Flag" 的场次**, 取正式的最终成绩。
         if short in ("RC1", "RC2"):
+            desc = sa.get("description", "") or sa.get("brief_description", "")
+            if "RED FLAG" in desc.upper():
+                continue
             sid = sa.get("source_id", "")
-            if sid in ("001", "002"):
-                ssp_races[short] = sid
+            ssp_races[short] = sid
 
     for race_key in ("RC1", "RC2"):
         sid = ssp_races.get(race_key)
